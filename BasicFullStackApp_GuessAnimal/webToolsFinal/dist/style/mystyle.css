@@ -1,0 +1,114 @@
+#loginModal .form-inline > * {
+  margin: 3px;
+}
+
+#loginModal .modal-body {
+  width: 600px;
+}
+
+#logo {
+  width: auto;
+  height: 50px;
+}
+
+.navbar-header .navbar-brand {
+  padding: 0px;
+}
+
+.modal-content {
+  padding: 20px;
+}
+
+#registerModal button {
+  margin: 5px;
+}
+
+#registerModal .form-control-feedback {
+  position: relative;
+  display: inline;
+}
+
+#mainArea {
+  padding: 100px 0 0 0;
+  height: 500px;
+  background-image: url("../pic/final.gif");
+  background-repeat: no-repeat ;
+  background-position: center;
+}
+
+#mainArea .btn {
+  margin: 40px;
+}
+
+#mainArea .nav {
+  text-align: center;
+}
+
+#mainArea .space {
+  height: 350px;
+}
+
+#guessWord button {
+  margin: 10px;
+}
+
+#guessInput {
+  text-align: justify;
+}
+
+#guessWord .guess_target {
+  font: 20px bold;
+  margin: 10px;
+  color: firebrick;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#guessWord .guess_reward {
+  font: 20px bold;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#guessWord .guess_win {
+  font: 30px bold;
+  color: firebrick;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  margin: 5px;
+}
+
+#guessInput > input {
+  width: 220px;
+  height: 35px;
+  margin-right: 20px;
+}
+
+#guessWord #guessBar > * {
+  display: inline;
+}
+
+#guessWord #guessInput >button {
+  width: 80px;
+}
+
+table th {
+  text-align: center;
+}
+
+table {
+  text-align: center;
+}
+
+#edit #edit_controls> * {
+  text-align: justify;
+  margin-right: 20px;
+  padding: 7px;
+}
+
+
+
+
+.notice {
+  color: firebrick;
+  font:15px bold;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
